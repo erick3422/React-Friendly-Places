@@ -7,7 +7,7 @@ Friendlyplaces is a webpages based in different places to visit and to share wit
 
 In the project directory, you can run:
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [https://jovial-noyce-8e8aa9.netlify.app](https://jovial-noyce-8e8aa9.netlify.app)to view it in the browser.
 
 
 ## Technologies Used
